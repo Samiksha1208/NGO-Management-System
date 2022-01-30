@@ -1,6 +1,6 @@
 # NGO-Management-System
 
-## ER Diagram
+## ER-Diagram
 
 ![ER](ER.png)
 
